@@ -3,7 +3,7 @@
 
 **Last updated: 29 June 2025**
 
-**Xylophone** is a simple musical app developed by **Jaikrishna Binnar ("JB")**. This app respects your privacy and is designed to be used without collecting any personal information.
+**Xylophone** is a simple musical app developed by **Jaikrishna Binnar ("jB")**. This app respects your privacy and is designed to be used without collecting any personal information.
 
 ### 1. Data Collection
 This app **does not collect**, store, or share any personal data.
@@ -29,4 +29,4 @@ This policy may be updated in the future. All updates will appear on this page.
 
 ### 7. Contact
 If you have any questions:
-📧 **jb.apps@example.com**
+📧 **jaikrushnabinnar24@gmail.com**
